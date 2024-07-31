@@ -1,4 +1,5 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoic29mdHdhcmVzYW0yOSIsImEiOiJjbHJvZ3F5eG8xZGQ0Mmtvcnk3M3EwbXVoIn0.Lp6zN74gMs-5eSgaxdcPsQ'
+//ADD YOUR MAPBOX ACCESSTOKEN HERE BETWEEN THE MARKS:
+mapboxgl.accessToken = ''
 
 var map = new mapboxgl.Map({
     container: 'map',
