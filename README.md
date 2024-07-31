@@ -1,8 +1,8 @@
 # Real-Time-Bus-Tracker-Exercise
-## This is an example of a real-life application of coding for data monitoring, analysis, and summarization. 
+## This is an example of a real-life application of coding for data monitoring, analysis, and summarization. It illustrates how information can be processed in multiple ways to provide users with useful information real-time. 
 
-Future Improvements: This form is a demonstration using one of the largest libraries for forms via Formik. Future improvements will be to utilize further Formik features through more extensive applications into web-based forms for capturing input user data and seemless user interfaces.
+Future Improvements: Future applications of this are wide, and will likely include gathering multiple maps from across the country.  A user interface can then be adapted to let the viewer select the map they want to see.  Further improvements can even show different map overlays.
 
-To Run: Copy and Run the application | NPM Install, including imports | NPM Start to run | Open and view in web browser
+To Run: Simply open up the index file in a web browser by double-clicking it.    |    Then click the button to start the bus location tracking. 
 
 License Disclaimer: License by MIT Copyright (c) 2024 MIT and Tim Soderlund Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
